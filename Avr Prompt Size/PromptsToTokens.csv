@@ -1,0 +1,23 @@
+ID,Response,Characters,Words,Tokens
+1,"Explain the concept of quantum entanglement in simple terms, suitable for a high school student.",96,15,17
+2,"Write a short, engaging story about a robot who discovers music for the first time.",83,15,17
+3,Draft a professional email to a supervisor requesting a one-week extension on a project deadline.,97,15,18
+4,Compare and contrast the political philosophies of Plato and Aristotle.,71,10,11
+5,What are the key differences between a black hole and a supernova?,66,12,13
+6,"Generate a list of 10 unique, healthy dinner recipes that take less than 30 minutes to prepare.",95,17,23
+7,Write a Python function to perform a binary search on a sorted list of integers.,80,15,16
+8,Summarize the main arguments of the book Sapiens: A Brief History of Humankind by Yuval Noah Harari.,100,17,25
+9,"Translate the following sentence into French: ""The weather is beautiful today, and I plan to go for a long walk.""",113,20,24
+10,"Act as a travel agent and suggest a five-day itinerary for a trip to Tokyo, focusing on culture and food.",105,20,24
+11,"Create a table listing the capital, population, and major industries of Canada, Brazil, and Germany.",100,15,20
+12,Design a 4-week strength training workout plan for an intermediate lifter.,74,11,16
+13,Give me a detailed explanation of how a combustion engine works.,64,11,12
+14,Write a haiku about the first snowfall of winter.,49,9,11
+15,What are the pros and cons of implementing a four-day work week?,64,12,15
+16,Analyze the themes and symbolism in Shakespeare's play Macbeth.,63,9,12
+17,I'm writing a fantasy novel. Give me five unique names for a mystical forest.,77,14,18
+18,"Generate a multiple-choice quiz question about the causes of the American Civil War, including four options and the correct answer.",131,20,24
+19,"Explain the process of photosynthesis, step by step.",52,8,10
+20,"Rewrite the following paragraph to be more concise and active: ""The meeting was attended by the entire team, and a lot of discussion about the new marketing strategy was had by everyone involved.""",196,33,37
+,,,,
+,,,AVERAGE,18 tokens/prompt

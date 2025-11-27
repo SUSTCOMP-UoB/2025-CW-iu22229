@@ -1,0 +1,39 @@
+Explain the concept of quantum entanglement in simple terms, suitable for a high school student.
+
+Write a short, engaging story about a robot who discovers music for the first time.
+
+Draft a professional email to a supervisor requesting a one-week extension on a project deadline.
+
+Compare and contrast the political philosophies of Plato and Aristotle.
+
+What are the key differences between a black hole and a supernova?
+
+Generate a list of 10 unique, healthy dinner recipes that take less than 30 minutes to prepare.
+
+Write a Python function to perform a binary search on a sorted list of integers.
+
+Summarize the main arguments of the book Sapiens: A Brief History of Humankind by Yuval Noah Harari.
+
+Translate the following sentence into French: "The weather is beautiful today, and I plan to go for a long walk."
+
+Act as a travel agent and suggest a five-day itinerary for a trip to Tokyo, focusing on culture and food.
+
+Create a table listing the capital, population, and major industries of Canada, Brazil, and Germany.
+
+Design a 4-week strength training workout plan for an intermediate lifter.
+
+Give me a detailed explanation of how a combustion engine works.
+
+Write a haiku about the first snowfall of winter.
+
+What are the pros and cons of implementing a four-day work week?
+
+Analyze the themes and symbolism in Shakespeare's play Macbeth.
+
+I'm writing a fantasy novel. Give me five unique names for a mystical forest.
+
+Generate a multiple-choice quiz question about the causes of the American Civil War, including four options and the correct answer.
+
+Explain the process of photosynthesis, step by step.
+
+Rewrite the following paragraph to be more concise and active: "The meeting was attended by the entire team, and a lot of discussion about the new marketing strategy was had by everyone involved."
